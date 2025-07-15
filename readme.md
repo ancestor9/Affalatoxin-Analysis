@@ -10,7 +10,7 @@
   #### - 식약처의 LIMS 데이터에서 해당 식품종류(농산물)을 분석대상으로 set
 
 #### 1.3. Feature & Targer 선행연구결과 (제안서 53페이지)
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0e977248-8150-4fbd-83a5-10298e2cfe32" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/0e977248-8150-4fbd-83a5-10298e2cfe32" />
 
 ### 2. 데이터 수집 및 분석
 #### 2.1. 기후(온도, 습도, 강수량, 토양 정보 등) 정보 Webcrawling : Timesereis data
