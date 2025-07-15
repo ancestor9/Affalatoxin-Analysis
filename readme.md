@@ -15,9 +15,11 @@
 ### 2. 데이터 수집 및 분석
 #### 2.1. 기후(온도, 습도, 강수량, 토양 정보 등) 정보 Webcrawling : Timesereis data
 #### 2.2. 식약처 수거검사 데이터(Positive, Negative로 아플라톡신 이진분류) : Cross-sectional data
-#### 2.3. Cross-sectional 데이터를 기준으로 Timesereis + Crosssection data를 merge하여 아애 대상식품의 3~5개 식품별로 EDA 수행
+#### 2.3. Cross-sectional data 기준으로 Timesereis data를 merge하여 시계열 특성을 반영한 대상식품의 3~5개 식품별로 EDA 수행
           - 대상 식품 : 아플라톡신 B1은 
           . 곡류(옥수수, 쌀, 밀) 및 견과류(땅콩, 헤이즐넛,  피스타치오)에서 발생 및 감염 위험이 높음
           ‧ 아플라톡신 M1은 우유 및 유제품에서 발생 및 감염 위험이 높음
           ‧ 국내에서는 고춧가루 및 고추장, 된장 및 간장, 곡류 및 가공품이 주요 식품임
+          - 시계열 특성 반영 방안
+          . 수거검사일 기준 최근 5년동안 우기(Monsoon Period)의 이상 기온, 습도, 토양정보 등을 반영...
 
