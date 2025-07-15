@@ -12,3 +12,8 @@
 #### 1.3. Feature & Targer 선행연구결과 (제안서 53페이지)
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0e977248-8150-4fbd-83a5-10298e2cfe32" />
 
+### 2. 데이터 수집 및 분석
+#### 2.1. 기후(온도, 습도, 강수량, 토양 정보 등) 정보 Webcrawling : Timesereis data
+#### 2.2. 식약처 수거검사 데이터(Positive, Negative로 아플라톡신 이진분류) : Cross-sectional data
+#### 2.3. Cross-sectional 데이터를 기준으로 Timesereis + 
+
