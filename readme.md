@@ -9,5 +9,6 @@
 #### 1.2. Target 구성
   #### - 식약처의 LIMS 데이터에서 해당 식품종류(농산물)을 분석대상으로 set
 
-<img width="936" height="655" alt="image" src="https://github.com/user-attachments/assets/0e977248-8150-4fbd-83a5-10298e2cfe32" />
+#### 1.3. Feature & Targer 선행연구결과 (제안서 53페이지)
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/0e977248-8150-4fbd-83a5-10298e2cfe32" />
 
