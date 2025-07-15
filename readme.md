@@ -8,3 +8,6 @@
                    - 기존문헌에서 데이터를 재현하여 아폴라톡신에 대한 위해 인자 도출
 #### 1.2. Target 구성
   #### - 식약처의 LIMS 데이터에서 해당 식품종류(농산물)을 분석대상으로 set
+
+<img width="936" height="655" alt="image" src="https://github.com/user-attachments/assets/0e977248-8150-4fbd-83a5-10298e2cfe32" />
+
